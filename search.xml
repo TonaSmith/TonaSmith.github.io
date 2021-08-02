@@ -25,4 +25,19 @@
         <tag>生活</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/08/02/%E4%BD%A0%E5%A5%BD/</url>
+    <content><![CDATA[<h1 id="这里是大标题"><a href="#这里是大标题" class="headerlink" title="这里是大标题"></a>这里是大标题</h1><h2 id="一、首页"><a href="#一、首页" class="headerlink" title="一、首页"></a>一、首页</h2><p>今天我说的就是对的</p>
+<h2 id="二、第二章"><a href="#二、第二章" class="headerlink" title="二、第二章"></a>二、第二章</h2><p>看见对方手机</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo deploy</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>生活小记</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>生活</tag>
+      </tags>
+  </entry>
 </search>
