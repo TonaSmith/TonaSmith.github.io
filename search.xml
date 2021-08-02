@@ -1,3 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
+<search> 
+  
+  
+    
+    <entry>
+      <title>TEST</title>
+      <link href="/2021/08/02/TEST/"/>
+      <url>/2021/08/02/TEST/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这里是大标题"><a href="#这里是大标题" class="headerlink" title="这里是大标题"></a>这里是大标题</h1><h2 id="一、首页"><a href="#一、首页" class="headerlink" title="一、首页"></a>一、首页</h2><p>今天我说的就是对的</p><h2 id="二、第二章"><a href="#二、第二章" class="headerlink" title="二、第二章"></a>二、第二章</h2><p>看见对方手机</p><hr><p>hexo clean<br>hexo deploy<br>hexo server</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随想 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文字 </tag>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/08/02/hello-world/"/>
+      <url>/2021/08/02/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活趣闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的图库</title>
+      <link href="/galleryGroup/index.html"/>
+      <url>/galleryGroup/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="justified-gallery"><p><img src="https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg"><br><img src="https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg"><br><img src="https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg"><br><img src="https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg"><br><img src="https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg"><br><img src="https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg"><br><img src="https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg"><br><img src="https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg"></p>          </div><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸</div>  <p>收藏的一些壁纸</p>  <a href='/galleryGroup/picture/20210720125345.jpg'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>关于漫威的图片</p>  <a href='/Gallery/marvel'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>关于OH MY GIRL的图片</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/manifest.json"/>
+      <url>/manifest.json</url>
+      
+        <content type="html"><![CDATA[{"name":"string","short_name":"Junzhou","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"images/pwaicons/36.png","sizes":"36x36","type":"image/png"},{"src":"images/pwaicons/48.png","sizes":"48x48","type":"image/png"},{"src":"images/pwaicons/72.png","sizes":"72x72","type":"image/png"},{"src":"images/pwaicons/96.png","sizes":"96x96","type":"image/png"},{"src":"images/pwaicons/144.png","sizes":"144x144","type":"image/png"},{"src":"images/pwaicons/192.png","sizes":"192x192","type":"image/png"},{"src":"images/pwaicons/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+      
+    </entry>
+    
+    
+  
 </search>
