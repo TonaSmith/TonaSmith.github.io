@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>学金融的文科男</title>
+  <icon>https://tonasmith.github.io/icon.png</icon>
+  <subtitle>欢迎你来听我唠叨</subtitle>
+  <link href="https://tonasmith.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://tonasmith.github.io/"/>
+  <updated>2021-08-03T11:59:44.991Z</updated>
+  <id>https://tonasmith.github.io/</id>
+  
+  <author>
+    <name>TonaSmith</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello</title>
+    <link href="https://tonasmith.github.io/2021/08/03/WIN%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85Nginx/"/>
+    <id>https://tonasmith.github.io/2021/08/03/WIN%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85Nginx/</id>
+    <published>2021-08-03T11:49:51.000Z</published>
+    <updated>2021-08-03T11:59:44.991Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello</title>
+    <link href="https://tonasmith.github.io/2021/08/03/WIN%E4%B8%8B%E5%AE%89%E8%A3%85Git%E5%B9%B6%E7%BE%8E%E5%8C%96/"/>
+    <id>https://tonasmith.github.io/2021/08/03/WIN%E4%B8%8B%E5%AE%89%E8%A3%85Git%E5%B9%B6%E7%BE%8E%E5%8C%96/</id>
+    <published>2021-08-03T11:49:51.000Z</published>
+    <updated>2021-08-03T12:05:12.540Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
